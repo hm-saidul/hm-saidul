@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm a passionate web designer and developer<br><br>- 🔭 I’m working as web designer<br>- 📚 I'm currently learning React JS<br>- ⚡ In my free time I am playing</p>
+<p align="left">I'm  passionate web designer and developer<br><br>- 🔭 I’m working as web designer<br>- 📚 I'm currently learning React JS<br>- ⚡ In my free time I am playing</p>
 
 ###
 
