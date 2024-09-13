@@ -75,5 +75,8 @@
 </div>
 
 ###
-<a href"#">find me</a>
+<div align="center">
+  <a href"https://www.facebook.com">find me</a>
+</div>
+  
 ###
